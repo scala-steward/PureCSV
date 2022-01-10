@@ -31,6 +31,10 @@ lazy val publishSettings = Seq(
       </scm>
       <developers>
         <developer>
+          <id>sentenza</id>
+          <name>Alfredo Torre</name>
+        </developer>
+        <developer>
           <id>melrief</id>
           <name>Mario Pastorelli</name>
         </developer>
